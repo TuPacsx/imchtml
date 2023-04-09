@@ -1,0 +1,61 @@
+
+h1,h2{
+    color:rgb(255, 0, 0);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-block-start: 0em;
+    color: rgb(255, 0, 0);
+    
+}
+.input_area{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+}
+input{
+    height: 1.5em;
+    background-color: rgb(255, 0, 0);
+}
+
+textarea{
+    width: 100%;
+    margin-top: 2em;
+    color: rgb(252, 0, 0);
+    background-color: #000000;
+}
+.container{
+    background-color: #000000;
+    display: inline-flex;
+    padding: 1.5em;
+    border-radius: 0.5em;
+    flex-direction: column;
+    align-items: center;
+    width: 20em;
+}
+
+.area{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(81, 255, 0);
+}
+
+button{
+    height: 3em;
+    width: 100%;
+    background-color: #ff0000;
+    border: none;
+    color: rgb(0, 0, 0);
+}
+button:hover{
+    cursor: pointer;
+}
+body{
+    background-color: rgb(30, 255, 0);
+}
+h2{
+    color: gr;
+}
